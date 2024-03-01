@@ -1,0 +1,15 @@
+[submodule "PicoGK"]
+	path = PicoGK
+	url = https://github.com/leap71/PicoGK
+[submodule "ShapeKernel"]
+	path = ShapeKernel
+	url = https://github.com/leap71/LEAP71_ShapeKernel
+[submodule "LatticeLibrary"]
+	path = LatticeLibrary
+	url = https://github.com/leap71/LEAP71_LatticeLibrary
+[submodule "LEAP71_RoverWheel"]
+	path = LEAP71_RoverWheel
+	url = https://github.com/leap71/LEAP71_RoverWheel.git
+[submodule "LEAP71_HelixHeatX"]
+	path = LEAP71_HelixHeatX
+	url = https://github.com/leap71/LEAP71_HelixHeatX.git
