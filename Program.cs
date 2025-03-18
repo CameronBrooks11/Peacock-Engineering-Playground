@@ -1,7 +1,7 @@
 ﻿using Leap71.ShapeKernel;
 using PicoGK;
 
-string strOutputFolder = "C:/Users/Cameron/Peacock-Engineering-Playground/Out";
+string strOutputFolder = "D:/repos/Peacock-Engineering-Playground/out";
 
 try
 {
@@ -16,3 +16,19 @@ catch (Exception e)
     Console.WriteLine("Failed to run Task.");
     Console.WriteLine(e.ToString());
 }
+
+
+
+
+/* // example showcase
+try
+{
+    PicoGK.Library.Go(0.5f, PicoGKExamples.BooleanShowCase.Task);
+}
+
+catch (Exception e)
+{
+    // Apparently something went wrong, output here
+    Console.WriteLine(e);
+}
+ */

@@ -8,33 +8,23 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Cameron\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\cambr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Cameron\\Peacock-Engineering-Playground\\Peacock-Engineering-Playground.csproj",
+      "projectUniqueName": "D:\\repos\\Peacock-Engineering-Playground\\Peacock-Engineering-Playground.csproj",
       "projectName": "Peacock-Engineering-Playground",
-      "projectPath": "C:\\Users\\Cameron\\Peacock-Engineering-Playground\\Peacock-Engineering-Playground.csproj",
-      "packagesPath": "C:\\Users\\Cameron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Cameron\\Peacock-Engineering-Playground\\obj\\",
+      "projectPath": "D:\\repos\\Peacock-Engineering-Playground\\Peacock-Engineering-Playground.csproj",
+      "packagesPath": "C:\\Users\\cambr\\.nuget\\packages\\",
+      "outputPath": "D:\\repos\\Peacock-Engineering-Playground\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Cameron\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\cambr\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
-      "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {}
-      },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
@@ -50,7 +40,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net8.0": {
@@ -71,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
